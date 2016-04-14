@@ -1,6 +1,4 @@
-#include<iostream>
 #include"paralelepiped.h"
-using namespace std;
 
 inline void Convert(bool);
 
